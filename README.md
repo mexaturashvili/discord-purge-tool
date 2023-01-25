@@ -3,7 +3,7 @@
 ## description
 discord purge tool deletes specified amount of messages in channel
 
-##instalation
+## Installation
 ```console
 pip install requests
 ```
